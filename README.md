@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/laylag.lima/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layla-lima-/)
 
-![Layla Anurag's GitHub status](https://github-readme-stats.vercel.app/api?username=laylalima&show_icons=true&theme=bg_color=00000000)
+![Layla Anurag's GitHub status](https://github-readme-stats.vercel.app/api?username=laylalima&show_icons=true&theme=dark)
 
 
 ## Tecnologias que eu uso ✅
